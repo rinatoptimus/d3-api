@@ -1,0 +1,29 @@
+.listComments {
+  font-family: sans-serif;
+}
+.listComments li {
+  width: 50%;
+  margin-bottom: 20px;
+  padding: 10px;
+  border: 1px solid grey;
+  border-radius: 10px;
+  list-style: none;
+}
+.levelZero {
+  margin-left: 0;
+}
+.levelOne {
+  margin-left: 40px;
+}
+.levelTwo {
+  margin-left: 80px;
+}
+.levelThree {
+  margin-left: 120px;
+}
+.levelFour {
+  margin-left: 160px;
+}
+.levelAfterFour {
+  margin-left: 200px;
+}
